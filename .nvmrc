@@ -2,3 +2,4 @@
 engine-strict=true
 package-manager=pnpm@9.10.0
 shamefully-hoist=true
+public-hoist-pattern[]=*@medusajs/*
